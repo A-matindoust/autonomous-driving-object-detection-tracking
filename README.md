@@ -61,16 +61,8 @@ Photometric augmentations change image values (for example, brightness or contra
 
 Dataset sources and download links are documented in the repository's `Dataset` file. Refer to the original dataset terms and attribution requirements when using or redistributing the data.
 
-## Related project
-
-- [Autonomous Driving Lane Perception](https://github.com/search?q=Autonomous+Driving+Lane+Perception&type=repositories) — lane segmentation and tracking, combined with this repository's object detection pipeline.
-
-Replace the search links with the exact repository URL when it is available.
 
 ## Intended use
 
 This repository is for computer-vision experimentation and autonomous-driving perception research. It provides detection, segmentation, and tracking outputs for downstream systems; it is not a complete or safety-validated autonomous-driving controller.
 
-## Suggested GitHub topics
-
-`autonomous-driving` · `object-detection` · `object-tracking` · `yolo11` · `ultralytics` · `lane-segmentation` · `computer-vision` · `deep-learning` · `botsort` · `dataset-conversion`
